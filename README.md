@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-DevOps_shell_bash
+Devops_shell_bash

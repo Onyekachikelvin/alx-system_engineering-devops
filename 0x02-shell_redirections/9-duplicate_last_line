@@ -1,0 +1,2 @@
+#!/bin/baslh
+tail -n 1 iacta >> iacta
